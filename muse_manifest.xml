@@ -1,0 +1,94 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="beslangeslan.ga" resolutions="1x" timestamp="1609172708268">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="4285985903" ref="produktai:d.u.k:index:specifikos"/>
+    <file name="produktai.css" crc="3965165531" ref="produktai"/>
+    <file name="d_u_k.css" crc="4253296792" ref="d.u.k"/>
+    <file name="index.css" crc="4177620035" ref="index"/>
+    <file name="specifikos.css" crc="4114223263" ref="specifikos"/>
+  </folder>
+  <folder name="fonts">
+    <file name="subset-productsans-italic.woff" crc="3884587929"/>
+    <file name="subset-productsans-italic.eot" crc="55849160"/>
+    <file name="subset-productsans-italic.svg" crc="4067713629"/>
+    <file name="subset-renogaresoft-regular.woff" crc="461145554"/>
+    <file name="subset-renogaresoft-regular.eot" crc="360741068"/>
+    <file name="subset-renogaresoft-regular.svg" crc="313558706"/>
+    <file name="subset-productsans-bold.woff" crc="200116784"/>
+    <file name="subset-productsans-bold.eot" crc="203104350"/>
+    <file name="subset-productsans-bold.svg" crc="3972853911"/>
+    <file name="subset-productsans-regular.woff" crc="3773962203"/>
+    <file name="subset-productsans-regular.eot" crc="4115120744"/>
+    <file name="subset-productsans-regular.svg" crc="15122941"/>
+    <file name="subset-productsans-bolditalic.woff" crc="168062029"/>
+    <file name="subset-productsans-bolditalic.eot" crc="4005418750"/>
+    <file name="subset-productsans-bolditalic.svg" crc="4260557389"/>
+  </folder>
+  <folder name="assets">
+    <file name="renogare-regular.otf" crc="4290306505" seo="true" mt="1585901733000"/>
+    <file name="renogaresoft-regular.ttf" crc="452875969" seo="true" mt="1477914502000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="museutils.js" crc="3939489907" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="whatinput.js" crc="86476730" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="museconfig.js" crc="3936894949" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="jquery.watch.js" crc="522499760" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="webpro.js" crc="3856315280" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="touchswipe.js" crc="3888935200" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="html5shiv.js" crc="4241844378" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="require.js" crc="4177726516" ref="d.u.k:index:produktai:specifikos"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4192426431" ref="d.u.k:index"/>
+    <file name="u16377-5.png" crc="283763061" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="blank.gif" crc="4208392903" ref="d.u.k:index:produktai:specifikos"/>
+    <file name="new mayb.jpg" crc="219969152" ref="d.u.k:index:produktai:specifikos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="d.u.k" alt=""/>
+    </file>
+    <file name="11-u1850-fr.png" crc="400549448" ref="d.u.k:specifikos"/>
+    <file name="landscape.jpg" crc="363928468" ref="d.u.k">
+      <caption webpage="d.u.k" alt=""/>
+    </file>
+    <file name="979d963eeeeeeeee.jpg" crc="3925328429" ref="d.u.k:index:produktai:specifikos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="specifikos" alt=""/>
+      <caption webpage="d.u.k" alt=""/>
+      <caption webpage="produktai" alt=""/>
+    </file>
+    <file name="aaaaa.jpg" crc="361452410" ref="index:produktai">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unknown.jpg" crc="83591532" ref="index:produktai">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape2.jpg" crc="3838701354" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="landscape1.jpg" crc="3859058977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brick wal.jpg" crc="252574892" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laukai.jpg" crc="494994713" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laukaiflip.jpg" crc="21243981" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scienceman.jpg" crc="273060959" ref="specifikos">
+      <caption webpage="specifikos" alt=""/>
+    </file>
+    <file name="11-u9000-fr.png" crc="400549448" ref="index:produktai"/>
+  </folder>
+  <file name="d.u.k.html" crc="3979436147" seo="true" mt="1609169492712" redirect="true"/>
+  <file name="index.html" crc="4282266887" seo="true" mt="1609171521271" redirect="true"/>
+  <file name="produktai.html" crc="304549760" seo="true" mt="1609171743817" redirect="true"/>
+  <file name="specifikos.html" crc="3852972933" seo="true" mt="1609171012291" redirect="true"/>
+</manifest>
